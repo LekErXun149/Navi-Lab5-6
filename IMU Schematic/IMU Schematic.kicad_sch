@@ -1323,7 +1323,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GY-9250 module (MPU-6500)"
+		(property "Value" "MPU-9250 module (MPU-6500)"
 			(at 191.77 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
